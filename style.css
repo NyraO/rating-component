@@ -1,0 +1,21 @@
+p{
+    font-size: 15px;
+    color:hsl(217, 12%, 63%);
+}
+h1{
+    color:white;
+}
+body{
+    background-color: hsl(216, 12%, 8%);
+}
+button{
+    background-color: hsl(25, 97%, 53%);
+    color:white;
+    padding:10px 20px;
+    width:250px;
+    border-radius: 50px;
+    border-style: none;
+}
+.card{
+    background-color: hsl(213, 19%, 18%);
+}
